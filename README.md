@@ -1,9 +1,7 @@
 <div>
   <h1 align="center"><a href="https://www.Instagram.com/sw_wanted"><i>SW Wanted</i></a> 😃️</h1>
-  <p align="center">Estudo Desenvolvimento Web na <a href="https://www.betrybe.com/"><i>Trybe</i></a> e compartilho meu aprendizado no meu canal no <a href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1"><i>YouTube</i></a><span> 👉🏽️</span>
-  <a align="rigth"  href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1" target="_blank">
-    <img width="10%" align="center" valign="middle" src="https://img.shields.io/youtube/channel/subscribers/UCViaNBT0SIeiVnZSEEtIfjw?label=iCode&style=social  " target="_blank" />
-  </a><br>
+  <p align="center"> Everything you need to learn WPF FrameWork
+  <br>
   <p align="center"> Enjoy the WPF Projects😉️</h2>
 </div>
 
