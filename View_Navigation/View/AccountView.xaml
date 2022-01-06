@@ -1,0 +1,21 @@
+﻿<UserControl x:Class="View_Navigation.View.AccountView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:View_Navigation.View"
+             mc:Ignorable="d"
+             
+             Background="#5AA5F5"
+             TextElement.FontFamily="Roboto"
+             TextElement.Foreground="White"
+             TextElement.FontSize="20"
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid>
+        <StackPanel Width="400" Height="200">
+            <Label Content="This is a Account View" HorizontalContentAlignment="Center" Background="#01c0aa"/>
+            <Separator Background="{x:Null}" Margin="0 10"/>
+            <Button Content="Show View 'Home'" Height="50" Command="{Binding NavigateHomeCommand}"/>
+        </StackPanel>
+    </Grid>
+</UserControl>
